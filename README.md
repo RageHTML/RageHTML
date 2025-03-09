@@ -1,21 +1,22 @@
 <h1 align="center">
-  👋 Hello, welcome to my profile!
+  👋 Olá, bem-vindo ao meu perfil! / Hello, welcome to my profile!
 </h1>
 
 <p align="center">
+  Sou um programador apaixonado do Brasil, mostrando meus projetos e compartilhando minha jornada no mundo da tecnologia. <br>
   I am a passionate programmer from Brazil, showcasing my projects and sharing my journey in the world of technology.
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:deyvidmrt@gmail.com">deyvidmrt@gmail.com</a>
+  📫 Como me contatar / How to reach me: <a href="mailto:deyvidm24@gmail.com">deyvidm24@gmail.com</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/RageHTML?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/RageHTML?style=social" alt="Seguidores no GitHub / GitHub Followers">
 </p>
 
 <h2 align="center">
-  💻 Languages and Tools
+  💻 Linguagens e Ferramentas / Languages and Tools
 </h2>
 
 <p align="center">
@@ -29,16 +30,16 @@
 </p>
 
 <h2 align="center">
-  📊 GitHub Stats
+  📊 Estatísticas do GitHub / GitHub Stats
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RageHTML&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RageHTML&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=RageHTML&show_icons=true&theme=dark" alt="Estatísticas do GitHub / GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RageHTML&layout=compact&theme=dark" alt="Linguagens mais usadas / Top Languages">
 </p>
 
 <h2 align="center">
-  🚀 Featured Projects
+  🚀 Projetos Destacados / Featured Projects
 </h2>
 
 <p align="center">
@@ -48,17 +49,11 @@
 </p>
 
 <h2 align="center">
-  🌟 Let's Connect!
+  🌟 Vamos nos conectar! / Let's Connect!
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
+  <a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/feed/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/seu-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/seu-instagram/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
