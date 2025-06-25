@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/RageHTML/gerenciador-tarefas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=Jogo-da-Forca&theme=dark&hide_border=true" alt="Jogo da Forca">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=gerenciador-tarefas&theme=dark&hide_border=true" alt="gerenciador-tarefas">
   </a>
 </p>
 
