@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  📫 Como me contatar / How to reach me: <a href="mailto:deyvidm24@gmail.com">deyvidm24@gmail.com</a>
+  📫 Como me contatar / How to reach me: <a href="mailto:deyvidmrt@gmail.com">deyvidmrt@gmail.com</a>
 </p>
 
 <p align="center">
