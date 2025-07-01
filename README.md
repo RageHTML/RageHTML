@@ -54,7 +54,7 @@
   <a href="https://github.com/RageHTML/gerenciador-tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=gerenciador-tarefas&theme=dark&hide_border=true" alt="task-manager">
   </a>
-  <a href=" https://github.com/RageHTML/api-restfull">
+  <a href="https://github.com/RageHTML/api-restfull">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=api-restfull&theme=dark&hide_border=true" alt="api-restfull">
   </a>
  
