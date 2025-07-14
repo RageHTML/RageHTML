@@ -51,6 +51,9 @@
 </h2>
 
 <p align="center">
+  <a href="https://github.com/RageHTML/sistema-logistica-entregas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=sistema-logistica-entregas&theme=dark&hide_border=true" alt="sistema-logistica-entregas">
+  </a>
   <a href="https://github.com/RageHTML/gerenciador-tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RageHTML&repo=gerenciador-tarefas&theme=dark&hide_border=true" alt="task-manager">
   </a>
