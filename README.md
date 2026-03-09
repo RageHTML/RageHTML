@@ -4,19 +4,19 @@
 
 <p align="center">
   Sou um estudante de Ciência da Computação apaixonado por programação e desenvolvimento de software. <br>
-  I am a Computer Science student passionate about programming and software development.
 </p>
 
 <p align="center">
-  📫 Como me contatar / How to reach me: <a href="mailto:deyvidmail24@gmail.com">deyvidmail24@gmail.com</a>
-  <a href="https://www.linkedin.com/in/deyvid-martins-545530352/](https://www.linkedin.com/in/deyvid-martins/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  📫 Acesse meu Linkedin ou Mande um Email / How to reach me: 
+  <a href="mailto:deyvidmail24@gmail.com">deyvidmail24@gmail.com</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RageHTML?tab=followers">
     <img src="https://img.shields.io/github/followers/RageHTML?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+   <a href="https://www.linkedin.com/in/deyvid-martins-545530352/](https://www.linkedin.com/in/deyvid-martins/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
