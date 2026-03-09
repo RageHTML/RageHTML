@@ -12,10 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RageHTML?tab=followers">
-    <img src="https://img.shields.io/github/followers/RageHTML?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-   <a href="https://www.linkedin.com/in/deyvid-martins-545530352/](https://www.linkedin.com/in/deyvid-martins/">
+   <a href="https://www.linkedin.com/in/deyvid-martins/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
