@@ -9,6 +9,9 @@
 
 <p align="center">
   📫 Como me contatar / How to reach me: <a href="mailto:deyvidmail24@gmail.com">deyvidmail24@gmail.com</a>
+  <a href="https://www.linkedin.com/in/deyvid-martins-545530352/](https://www.linkedin.com/in/deyvid-martins/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
@@ -36,12 +39,4 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-<h2 align="center">
-  🌟 Vamos nos conectar! / Let's Connect!
-</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/deyvid-martins-545530352/](https://www.linkedin.com/in/deyvid-martins/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
